@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GithubUser v.3</string>
+    <string name="search">Cari</string>
+    <string name="search_instr">Silahkan Ketikkan Nama yang Ingin Anda Cari</string>
+    <string name="emptyData">Data Tidak Ditemukan</string>
+    <string name="menu_1">Pengaturan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="menu_2">Fav User</string>
+    <string name="tab1">Repository</string>
+    <string name="tab2">Followers</string>
+    <string name="tab3">Following</string>
+    <string name="nodata">Belum ada data</string>
+    <string name="desc_image">Image search</string>
+    <string name="appbar_favuser">Favorite User</string>
+</resources>
